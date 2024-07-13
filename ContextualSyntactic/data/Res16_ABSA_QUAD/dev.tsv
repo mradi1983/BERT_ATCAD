@@ -1,0 +1,508 @@
+,sentence,target,target_type,category,polarity,opinin_Term
+0,I asked for a menu and the same waitress looked at my like I was insane .,waitress,explicit,SERVICE GENERAL,negative,insane
+1,The owner truly caters to all your needs .,owner,explicit,SERVICE GENERAL,positive,caters to all your needs
+2,"I 'm a friendly person , so I wouldn 't mind had she not been so nasty and gotten so personal .",NULL,implicit,SERVICE GENERAL,negative,nasty
+3,A great place to meet up for some food and drinks ...,place,explicit,RESTAURANT MISCELLANEOUS,positive,great
+4,Loved it,NULL,implicit,RESTAURANT GENERAL,positive,Loved
+5,The owner and staff are all Japanese as well and that adds to the entire ambiance .,ambiance,explicit,AMBIENCE GENERAL,positive,adds
+6,"The side dishes were passable , and I did get a refill upon request .",side dishes,explicit,FOOD QUALITY,neutral,passable
+7,"The side dishes were passable , and I did get a refill upon request .",side dishes,explicit,FOOD STYLE_OPTIONS,positive,refill
+8,"Great friendly service , Fast seating , Fast Delivery , Excellent sushi .",service,explicit,SERVICE GENERAL,positive,Great friendly
+9,"Great friendly service , Fast seating , Fast Delivery , Excellent sushi .",seating,explicit,SERVICE GENERAL,positive,Fast
+10,"Great friendly service , Fast seating , Fast Delivery , Excellent sushi .",Delivery,explicit,SERVICE GENERAL,positive,Fast
+11,"Great friendly service , Fast seating , Fast Delivery , Excellent sushi .",sushi,explicit,FOOD QUALITY,positive,Excellent
+12,I went there for lunch and it was not as good as I expected from the reviews I read .,lunch,explicit,FOOD QUALITY,negative,not as good as I expected
+13,The stuff tilapia was horrid ... tasted like cardboard .,stuff tilapia,explicit,FOOD QUALITY,negative,horrid
+14,I just do n't understand all the hype ...,NULL,implicit,RESTAURANT GENERAL,negative,do n't understand
+15,Subtle food and service,food,explicit,FOOD QUALITY,positive,Subtle
+16,Subtle food and service,service,explicit,SERVICE GENERAL,positive,Subtle
+17,Service was wonderful ;,Service,explicit,SERVICE GENERAL,positive,wonderful
+18,The food here does a great service to the name ( Cantonese that is ... ) .,food,explicit,FOOD QUALITY,positive,great
+19,None was made so i hung up .,NULL,implicit,SERVICE GENERAL,negative,None was made
+20,This place is a great bargain .,place,explicit,RESTAURANT PRICES,positive,great bargain
+21,I will be going back and heartily recommend it !,NULL,implicit,RESTAURANT GENERAL,positive,going back
+22,I will be going back and heartily recommend it !,NULL,implicit,RESTAURANT GENERAL,positive,heartily recommend
+23,great hot dogs .,hot dogs,explicit,FOOD QUALITY,positive,great
+24,The food was good too .,food,explicit,FOOD QUALITY,positive,good
+25,Winnie and her staff are the best crew you can find serving you .,staff,explicit,SERVICE GENERAL,positive,best
+26,Winnie and her staff are the best crew you can find serving you .,Winnie,explicit,SERVICE GENERAL,positive,best
+27,"Service was prompt , friendly and great .",Service,explicit,SERVICE GENERAL,positive,prompt
+28,"Service was prompt , friendly and great .",Service,explicit,SERVICE GENERAL,positive,friendly
+29,"Service was prompt , friendly and great .",Service,explicit,SERVICE GENERAL,positive,great
+30,"The ambience was so fun , and the prices were great , on top of the fact that the food was really tasty .",ambience,explicit,AMBIENCE GENERAL,positive,fun
+31,"The ambience was so fun , and the prices were great , on top of the fact that the food was really tasty .",NULL,implicit,RESTAURANT PRICES,positive,great
+32,"The ambience was so fun , and the prices were great , on top of the fact that the food was really tasty .",food,explicit,FOOD QUALITY,positive,tasty
+33,the food is always fresh ...,food,explicit,FOOD QUALITY,positive,fresh
+34,"Excellent sashimi , and the millennium roll is beyond delicious .",sashimi,explicit,FOOD QUALITY,positive,Excellent
+35,"Excellent sashimi , and the millennium roll is beyond delicious .",millennium roll,explicit,FOOD QUALITY,positive,delicious
+36,Not a great place for family or general dining .,place,explicit,RESTAURANT MISCELLANEOUS,negative,Not a great
+37,"The bagels always warm , soft on the inside , crispy on the outside and enormous in size .",bagels,explicit,FOOD QUALITY,positive,warm
+38,"The bagels always warm , soft on the inside , crispy on the outside and enormous in size .",bagels,explicit,FOOD QUALITY,positive,soft
+39,"The bagels always warm , soft on the inside , crispy on the outside and enormous in size .",bagels,explicit,FOOD QUALITY,positive,crispy
+40,"The bagels always warm , soft on the inside , crispy on the outside and enormous in size .",bagels,explicit,FOOD STYLE_OPTIONS,positive,enormous
+41,So rude ! ! !,NULL,implicit,SERVICE GENERAL,negative,rude
+42,This is a nice pizza place with good selection of thin crust pizza including the Basil slice .,selection of thin crust pizza,explicit,FOOD STYLE_OPTIONS,positive,good
+43,This is a nice pizza place with good selection of thin crust pizza including the Basil slice .,selection of thin crust pizza,explicit,FOOD QUALITY,positive,good
+44,This is a nice pizza place with good selection of thin crust pizza including the Basil slice .,pizza place,explicit,RESTAURANT GENERAL,positive,nice
+45,This is a nice pizza place with good selection of thin crust pizza including the Basil slice .,Basil slice,explicit,FOOD QUALITY,positive,good
+46,"The food is very average ... the Thai fusion stuff is a bit too sweet , every thing they serve is too sweet here .",food,explicit,FOOD QUALITY,negative,average
+47,"The food is very average ... the Thai fusion stuff is a bit too sweet , every thing they serve is too sweet here .",Thai fusion stuff,explicit,FOOD QUALITY,negative,too sweet
+48,"The food is very average ... the Thai fusion stuff is a bit too sweet , every thing they serve is too sweet here .",NULL,implicit,FOOD QUALITY,negative,too sweet
+49,"Our waitress was n't mean , but not especially warm or attentive either .",waitress,explicit,SERVICE GENERAL,neutral,was n't mean
+50,The sauce tasted more like Chinese fast food than decent Korean .,sauce,explicit,FOOD QUALITY,negative,Chinese fast food
+51,Mussles and calamari were superb Saturday evening .,Mussles,explicit,FOOD QUALITY,positive,superb
+52,Mussles and calamari were superb Saturday evening .,calamari,explicit,FOOD QUALITY,positive,superb
+53,"The food is wonderful , tasty and filling , and the service is professional and friendly .",food,explicit,FOOD QUALITY,positive,wonderful
+54,"The food is wonderful , tasty and filling , and the service is professional and friendly .",food,explicit,FOOD QUALITY,positive,tasty
+55,"The food is wonderful , tasty and filling , and the service is professional and friendly .",food,explicit,FOOD STYLE_OPTIONS,positive,filling
+56,"The food is wonderful , tasty and filling , and the service is professional and friendly .",service,explicit,SERVICE GENERAL,positive,professional
+57,"The food is wonderful , tasty and filling , and the service is professional and friendly .",service,explicit,SERVICE GENERAL,positive,friendly
+58,The service is awful .,service,explicit,SERVICE GENERAL,negative,awful
+59,"The fish was adequate , but inexpertly sliced .",fish,explicit,FOOD STYLE_OPTIONS,negative,adequate
+60,"The fish was adequate , but inexpertly sliced .",fish,explicit,FOOD STYLE_OPTIONS,negative,inexpertly sliced
+61,"Bagels are ok , but be sure not to make any special requests !",Bagels,explicit,FOOD QUALITY,neutral,ok
+62,"Bagels are ok , but be sure not to make any special requests !",NULL,implicit,SERVICE GENERAL,negative,not to make any special requests
+63,Good Food,Food,explicit,FOOD QUALITY,positive,Good
+64,"The food was amazing , and the service was prompt and helpful , but not over-bearing or rushed .",food,explicit,FOOD QUALITY,positive,amazing
+65,"The food was amazing , and the service was prompt and helpful , but not over-bearing or rushed .",service,explicit,SERVICE GENERAL,positive,prompt
+66,"The food was amazing , and the service was prompt and helpful , but not over-bearing or rushed .",service,explicit,SERVICE GENERAL,positive,helpful
+67,"The food was amazing , and the service was prompt and helpful , but not over-bearing or rushed .",service,explicit,SERVICE GENERAL,positive,not over-bearing or rushed
+68,Sauce was watery and the food did n't have much flavor .,Sauce,explicit,FOOD QUALITY,negative,watery
+69,Sauce was watery and the food did n't have much flavor .,food,explicit,FOOD QUALITY,negative,did n't have much flavor
+70,I was n't here for the pizza so I can 't comment on that yet but what I had was very good .,NULL,implicit,FOOD QUALITY,positive,good
+71,We were less than impressed .,NULL,implicit,RESTAURANT GENERAL,negative,less than impressed
+72,The have a great cocktail with Citrus Vodka and lemon and lime juice and mint leaves that is to die for !,cocktail with Citrus Vodka and lemon and lime juice and mint leaves,explicit,DRINKS QUALITY,positive,great
+73,The food was average or above including some surprising tasty dishes .,food,explicit,FOOD QUALITY,positive,average or above
+74,The food was average or above including some surprising tasty dishes .,dishes,explicit,FOOD QUALITY,positive,tasty
+75,"sometimes i get bad food and bad service , sometimes i get good good and bad service .",food,explicit,FOOD QUALITY,negative,bad
+76,"sometimes i get bad food and bad service , sometimes i get good good and bad service .",service,explicit,SERVICE GENERAL,negative,bad
+77,"sometimes i get bad food and bad service , sometimes i get good good and bad service .",service,explicit,SERVICE GENERAL,negative,bad
+78,"sometimes i get bad food and bad service , sometimes i get good good and bad service .",good,explicit,FOOD QUALITY,positive,good
+79,Best drumsticks over rice and sour spicy soup in town !,drumsticks over rice,explicit,FOOD QUALITY,positive,Best
+80,Best drumsticks over rice and sour spicy soup in town !,sour spicy soup,explicit,FOOD QUALITY,positive,Best
+81,The workers there also absolutely load the bagel with cream cheese ( gets a little messy ) .,bagel,explicit,FOOD STYLE_OPTIONS,negative,messy
+82,"A few tips : skip the turnip cake , roast pork buns and egg custards .",turnip cake,explicit,FOOD QUALITY,negative,skip
+83,"A few tips : skip the turnip cake , roast pork buns and egg custards .",roast pork buns,explicit,FOOD QUALITY,negative,skip
+84,"A few tips : skip the turnip cake , roast pork buns and egg custards .",egg custards,explicit,FOOD QUALITY,negative,skip
+85,Best In ALL of NYC,NULL,implicit,RESTAURANT GENERAL,positive,Best
+86,Not worth it .,NULL,implicit,FOOD PRICES,negative,Not worth
+87,Vanison was good but not amazing .,Vanison,explicit,FOOD QUALITY,neutral,good
+88,"At first we were a little taken aback , as this seemed to present a problem , although the restaurant looked fairly empty , but they hastily put the table together for us .",NULL,implicit,SERVICE GENERAL,positive,hastily put the table together for us
+89,"But for the Shabu Shabu , you won 't find much better in NY .",Shabu Shabu,explicit,FOOD QUALITY,positive,won 't find much better
+90,The Cypriot restaurant has a lot going for it .,Cypriot restaurant,explicit,RESTAURANT GENERAL,positive,a lot going
+91,"I have worked in restaurants and cook a lot , and there is no way a maggot should be able to get into well prepared food .",food,explicit,FOOD QUALITY,negative,well prepared
+92,"I 've been to at Cafe Spice probably 5-8 times , it is probably still the best Indian restaurant around Union Square .",Cafe Spice,explicit,RESTAURANT GENERAL,positive,best
+93,"There 's nice and quiet , small but enough for 6 ( or more ) .",NULL,implicit,AMBIENCE GENERAL,positive,quiet
+94,"There 's nice and quiet , small but enough for 6 ( or more ) .",NULL,implicit,AMBIENCE GENERAL,positive,nice
+95,I really loved the different and inovated touch that 's the cheff gives to the food .,cheff,explicit,FOOD STYLE_OPTIONS,positive,loved
+96,I really loved the different and inovated touch that 's the cheff gives to the food .,cheff,explicit,FOOD STYLE_OPTIONS,positive,inovated
+97,"The food is good , I ca n't lie .",food,explicit,FOOD QUALITY,positive,good
+98,"Service , however , was excellent ... and I liked the setting/atmosphere a lot .",Service,explicit,SERVICE GENERAL,positive,excellent
+99,"Service , however , was excellent ... and I liked the setting/atmosphere a lot .",setting/atmosphere,explicit,AMBIENCE GENERAL,positive,liked
+100,"Food is usually very good , though ocasionally I wondered about freshmess of raw vegatables in side orders .",Food,explicit,FOOD QUALITY,positive,good
+101,"Food is usually very good , though ocasionally I wondered about freshmess of raw vegatables in side orders .",raw vegatables in side orders,explicit,FOOD QUALITY,negative,wondered about freshmess
+102,I recommend it !,NULL,implicit,RESTAURANT GENERAL,positive,recommend
+103,"My party had the BBE $ 29 fixe prix menu , which was such a wonderful deal since it also came with a flight of sake !",BBE $ 29 fixe prix menu,explicit,FOOD PRICES,positive,wonderful
+104,"My party had the BBE $ 29 fixe prix menu , which was such a wonderful deal since it also came with a flight of sake !",BBE $ 29 fixe prix menu,explicit,FOOD STYLE_OPTIONS,positive,a flight of sake
+105,The food is reliable and the price is moderate .,food,explicit,FOOD QUALITY,positive,reliable
+106,The food is reliable and the price is moderate .,NULL,implicit,RESTAURANT PRICES,neutral,moderate
+107,My roommate and I LOVE this place .,place,explicit,RESTAURANT GENERAL,positive,LOVE
+108,If you like your music blasted and the system isnt that great and if you want to pay at least 100 dollar bottle minimun then you 'll love it here .,bottle,explicit,DRINKS PRICES,negative,love
+109,If you like your music blasted and the system isnt that great and if you want to pay at least 100 dollar bottle minimun then you 'll love it here .,music,explicit,AMBIENCE GENERAL,negative,like
+110,The best pad thai i 've ever had .,pad thai,explicit,FOOD QUALITY,positive,best
+111,I wish I COULD be refunded !,NULL,implicit,RESTAURANT GENERAL,negative,refunded
+112,Although we were told 10-15 minutes and it was more like 45 minutes .,NULL,implicit,SERVICE GENERAL,negative,45 minutes
+113,"Each time we 've been , the front of house staff ( not the waiters - they 're fantastic - but the people who greet and seat you ) has been so hideous to us that were it not for the exceptional fish dishes I would never return .",waiters,explicit,SERVICE GENERAL,positive,fantastic
+114,"Each time we 've been , the front of house staff ( not the waiters - they 're fantastic - but the people who greet and seat you ) has been so hideous to us that were it not for the exceptional fish dishes I would never return .",front of house staff,explicit,SERVICE GENERAL,negative,hideous
+115,"Each time we 've been , the front of house staff ( not the waiters - they 're fantastic - but the people who greet and seat you ) has been so hideous to us that were it not for the exceptional fish dishes I would never return .",fish dishes,explicit,FOOD QUALITY,positive,exceptional
+116,Possibly the Most Romantic Restaurant in the City,Restaurant,explicit,AMBIENCE GENERAL,positive,Romantic
+117,I would go back .,NULL,implicit,RESTAURANT GENERAL,positive,go back
+118,Although we were looking for regular lettuce and some walnuts the salads we got were great .,salads,explicit,FOOD QUALITY,positive,great
+119,"Service is not exactly five star , but thats not really a big deal .",Service,explicit,SERVICE GENERAL,neutral,not exactly five star
+120,The food is great and the environment is even better .,food,explicit,FOOD QUALITY,positive,great
+121,The food is great and the environment is even better .,environment,explicit,AMBIENCE GENERAL,positive,better
+122,"Everything I had was good , and I 'm a eater .",NULL,implicit,FOOD QUALITY,positive,good
+123,The buffet had a nice selection .,buffet,explicit,FOOD STYLE_OPTIONS,positive,nice
+124,I honestly do n't even know where to begin .,NULL,implicit,RESTAURANT GENERAL,negative,do n't even know where to begin
+125,Delivery is fast too .,Delivery,explicit,SERVICE GENERAL,positive,fast
+126,Best . Sushi . Ever .,Sushi,explicit,FOOD QUALITY,positive,Best
+127,"Good spreads , great beverage selections and bagels really tasty .",spreads,explicit,FOOD QUALITY,positive,Good
+128,"Good spreads , great beverage selections and bagels really tasty .",beverage selections,explicit,DRINKS STYLE_OPTIONS,positive,great
+129,"Good spreads , great beverage selections and bagels really tasty .",bagels,explicit,FOOD QUALITY,positive,tasty
+130,Everyone was more then happy with his choices .,NULL,implicit,SERVICE GENERAL,positive,happy
+131,One of my favorite places in Brooklyn .,NULL,implicit,RESTAURANT GENERAL,positive,favorite
+132,The concept of japanese tapas is newly created and clearly does n't work .,japanese tapas,explicit,FOOD STYLE_OPTIONS,negative,does n't work
+133,Very good wine choices .,wine choices,explicit,DRINKS STYLE_OPTIONS,positive,good
+134,I highly recommend the Sophia pizza .,Sophia pizza,explicit,FOOD QUALITY,positive,recommend
+135,"The service is excellent , the decor is great , and the food is delicious and comes in large portions .",service,explicit,SERVICE GENERAL,positive,excellent
+136,"The service is excellent , the decor is great , and the food is delicious and comes in large portions .",decor,explicit,AMBIENCE GENERAL,positive,great
+137,"The service is excellent , the decor is great , and the food is delicious and comes in large portions .",food,explicit,FOOD QUALITY,positive,delicious
+138,"The service is excellent , the decor is great , and the food is delicious and comes in large portions .",portions,explicit,FOOD STYLE_OPTIONS,positive,large
+139,I go twice a month !,NULL,implicit,RESTAURANT GENERAL,positive,twice a month
+140,"also it 's great to have dinner in a very romantic and comfortable place , the service it 's just perfect ... they 're so frendly that we never want to live the place !",place,explicit,AMBIENCE GENERAL,positive,romantic
+141,"also it 's great to have dinner in a very romantic and comfortable place , the service it 's just perfect ... they 're so frendly that we never want to live the place !",place,explicit,AMBIENCE GENERAL,positive,comfortable
+142,"also it 's great to have dinner in a very romantic and comfortable place , the service it 's just perfect ... they 're so frendly that we never want to live the place !",service,explicit,SERVICE GENERAL,positive,perfect
+143,And $ 11 for a plate of bland guacamole ?,guacamole,explicit,FOOD QUALITY,negative,bland
+144,And $ 11 for a plate of bland guacamole ?,guacamole,explicit,FOOD PRICES,negative,bland
+145,Ingredients are organic which is a real plus for me .,Ingredients,explicit,FOOD QUALITY,positive,organic
+146,Ingredients are organic which is a real plus for me .,Ingredients,explicit,FOOD QUALITY,positive,plus
+147,"The food is yummy , especially their cooked-to-perfection mussels in spicy tomato sauce and their shoestring crispy fries .",food,explicit,FOOD QUALITY,positive,yummy
+148,"The food is yummy , especially their cooked-to-perfection mussels in spicy tomato sauce and their shoestring crispy fries .",mussels in spicy tomato sauce,explicit,FOOD QUALITY,positive,yummy
+149,"The food is yummy , especially their cooked-to-perfection mussels in spicy tomato sauce and their shoestring crispy fries .",mussels in spicy tomato sauce,explicit,FOOD QUALITY,positive,cooked-to-perfection
+150,"The food is yummy , especially their cooked-to-perfection mussels in spicy tomato sauce and their shoestring crispy fries .",fries,explicit,FOOD QUALITY,positive,yummy
+151,"The food is yummy , especially their cooked-to-perfection mussels in spicy tomato sauce and their shoestring crispy fries .",fries,explicit,FOOD QUALITY,positive,crispy
+152,Maitre-D- `` Eat and get out ``,Maitre-D,explicit,SERVICE GENERAL,negative,get out
+153,Lexicographers take note : a new and fascinating definition of rudeness is alive and flourishing right here in Brooklyn .,NULL,implicit,SERVICE GENERAL,negative,rudeness
+154,And evaluated on those terms Pastis is simply wonderful .,Pastis,explicit,RESTAURANT GENERAL,positive,wonderful
+155,awesome,NULL,implicit,RESTAURANT GENERAL,positive,awesome
+156,fresh restaurant was amazing ... ... .. food was delicious and of course fresh .,fresh restaurant,explicit,RESTAURANT GENERAL,positive,fresh
+157,fresh restaurant was amazing ... ... .. food was delicious and of course fresh .,fresh restaurant,explicit,RESTAURANT GENERAL,positive,amazing
+158,fresh restaurant was amazing ... ... .. food was delicious and of course fresh .,food,explicit,FOOD QUALITY,positive,delicious
+159,fresh restaurant was amazing ... ... .. food was delicious and of course fresh .,food,explicit,FOOD QUALITY,positive,fresh
+160,"Delicious , creative and fun .",NULL,implicit,FOOD QUALITY,positive,Delicious
+161,"Delicious , creative and fun .",NULL,implicit,FOOD STYLE_OPTIONS,positive,creative
+162,"Delicious , creative and fun .",NULL,implicit,FOOD STYLE_OPTIONS,positive,fun
+163,It 's cuz it 's so good you need to taste it ! ! !,NULL,implicit,FOOD QUALITY,positive,good
+164,I was speechless by the horrible food .,food,explicit,FOOD QUALITY,negative,speechless
+165,It was wonderful .,NULL,implicit,DRINKS QUALITY,positive,wonderful
+166,"However , I think this place is a good hang out spot .",place,explicit,AMBIENCE GENERAL,positive,good
+167,"The decor in this place is very diner-ish and the kind of place you expect in the East Village - not romantic , just simple , small and sparse .",decor,explicit,AMBIENCE GENERAL,neutral,diner-ish
+168,"Try the Pad Thai , or sample anything on the appetizer menu ... they 're all delicious .",Pad Thai,explicit,FOOD QUALITY,positive,Try
+169,"Try the Pad Thai , or sample anything on the appetizer menu ... they 're all delicious .",Pad Thai,explicit,FOOD QUALITY,positive,delicious
+170,"Try the Pad Thai , or sample anything on the appetizer menu ... they 're all delicious .",appetizer menu,explicit,FOOD QUALITY,positive,delicious
+171,Ess-A-Bagel ( either by Sty-town or midtown ) is by far the best bagel in NY .,bagel,explicit,FOOD QUALITY,positive,best
+172,And even with it 's Pub atmosphere they were great to my kids too !,NULL,implicit,SERVICE GENERAL,positive,great
+173,JUST AWSOME .,NULL,implicit,FOOD QUALITY,positive,AWSOME
+174,"Red Dragon Roll - my favorite thing to eat , of any food group - hands down",Red Dragon Roll,explicit,FOOD QUALITY,positive,favorite
+175,The rice to fish ration was also good -- they did n't try to overpack the rice .,rice to fish ration,explicit,FOOD STYLE_OPTIONS,positive,good
+176,They have authentic Indian at amazin prices .,Indian,explicit,FOOD QUALITY,positive,authentic
+177,They have authentic Indian at amazin prices .,Indian,explicit,FOOD PRICES,positive,authentic
+178,"My father had the flank steak which was very good , and my mother had the swordfish .",flank steak,explicit,FOOD QUALITY,positive,good
+179,Fabulous food - if the front of house staff do n't put you off –,food,explicit,FOOD QUALITY,positive,Fabulous
+180,Fabulous food - if the front of house staff do n't put you off –,front of house staff,explicit,SERVICE GENERAL,negative,put you off
+181,"By far , the best pizza in Manhattan .",pizza,explicit,FOOD QUALITY,positive,best
+182,Overpriced and not tasty,NULL,implicit,FOOD PRICES,negative,Overpriced
+183,Overpriced and not tasty,NULL,implicit,FOOD QUALITY,negative,not tasty
+184,"Pizza is terrific , as is homemade pasta .",Pizza,explicit,FOOD QUALITY,positive,terrific
+185,"Pizza is terrific , as is homemade pasta .",homemade pasta,explicit,FOOD QUALITY,positive,terrific
+186,"Raga 's is a romantic , cozy restaurant .",Raga 's,explicit,AMBIENCE GENERAL,positive,romantic
+187,"Raga 's is a romantic , cozy restaurant .",Raga 's,explicit,AMBIENCE GENERAL,positive,cozy
+188,Expensive,NULL,implicit,RESTAURANT PRICES,negative,Expensive
+189,The location is perfect .,location,explicit,LOCATION GENERAL,positive,perfect
+190,"All in all , this midtown gem instantly became one of my favorite sushi restaurants in the city .",NULL,implicit,RESTAURANT GENERAL,positive,favorite
+191,This place doesn 't make any sense,place,explicit,RESTAURANT GENERAL,negative,doesn 't make any sense
+192,"The tables are crammed way too close , the menu is typical of any Italian restaurant , and the wine list is simply overpriced .",tables,explicit,AMBIENCE GENERAL,negative,crammed
+193,"The tables are crammed way too close , the menu is typical of any Italian restaurant , and the wine list is simply overpriced .",tables,explicit,AMBIENCE GENERAL,negative,too close
+194,"The tables are crammed way too close , the menu is typical of any Italian restaurant , and the wine list is simply overpriced .",menu,explicit,FOOD STYLE_OPTIONS,neutral,typical
+195,"The tables are crammed way too close , the menu is typical of any Italian restaurant , and the wine list is simply overpriced .",wine list,explicit,DRINKS PRICES,negative,overpriced
+196,The food was pretty tradional but it was hot and good with large portions .,food,explicit,FOOD QUALITY,positive,tradional
+197,The food was pretty tradional but it was hot and good with large portions .,portions,explicit,FOOD STYLE_OPTIONS,positive,large
+198,"I have reservations about the all you can eat deal , however -- the choices are fairly limited and you can probably order more food than you can eat for less than $ 18 by just going off the menu .",all you can eat deal,explicit,FOOD STYLE_OPTIONS,negative,limited
+199,"I have reservations about the all you can eat deal , however -- the choices are fairly limited and you can probably order more food than you can eat for less than $ 18 by just going off the menu .",all you can eat deal,explicit,FOOD PRICES,negative,limited
+200,A must try !,NULL,implicit,RESTAURANT GENERAL,positive,A must try
+201,I have to say I have never had a disapointing meal here .,meal,explicit,FOOD QUALITY,positive,never had a disapointing
+202,Be sure not to get anything other than bagels ! . .,NULL,implicit,FOOD QUALITY,negative,not to get anything
+203,"the spinach is fresh , definately not frozen ...",spinach,explicit,FOOD QUALITY,positive,fresh
+204,I had the Thai style Fried Sea Bass ... which was very good .,Thai style Fried Sea Bass,explicit,FOOD QUALITY,positive,good
+205,The view is breathtaking the service is top notch ... the ambiance is wonderful .,view,explicit,LOCATION GENERAL,positive,breathtaking
+206,The view is breathtaking the service is top notch ... the ambiance is wonderful .,service,explicit,SERVICE GENERAL,positive,top notch
+207,The view is breathtaking the service is top notch ... the ambiance is wonderful .,ambiance,explicit,AMBIENCE GENERAL,positive,wonderful
+208,"The ambience was nice , but service was n't so great .",ambience,explicit,AMBIENCE GENERAL,positive,nice
+209,"The ambience was nice , but service was n't so great .",service,explicit,SERVICE GENERAL,negative,was n't so great
+210,This place is not worth the prices .,place,explicit,RESTAURANT GENERAL,negative,not worth the prices
+211,This place is not worth the prices .,place,explicit,RESTAURANT PRICES,negative,not worth the prices
+212,"We ate out in the back patio , which is worth it as it 's cool and the music is hear well there .",back patio,explicit,AMBIENCE GENERAL,positive,worth
+213,"We ate out in the back patio , which is worth it as it 's cool and the music is hear well there .",back patio,explicit,AMBIENCE GENERAL,positive,cool
+214,"We ate out in the back patio , which is worth it as it 's cool and the music is hear well there .",music,explicit,AMBIENCE GENERAL,positive,well
+215,I did not try the caviar but I tried their salmon and crab salad ( they are all good ),salmon,explicit,FOOD QUALITY,positive,good
+216,I did not try the caviar but I tried their salmon and crab salad ( they are all good ),crab salad,explicit,FOOD QUALITY,positive,good
+217,We were seated outside and the waiter spilled red wine and hot tea on myself and my date .,waiter,explicit,SERVICE GENERAL,negative,spilled
+218,We asked for beverages and never received them .,NULL,implicit,SERVICE GENERAL,negative,never received
+219,Great Indian food and the service is incredible .,Indian food,explicit,FOOD QUALITY,positive,Great
+220,Great Indian food and the service is incredible .,service,explicit,SERVICE GENERAL,positive,incredible
+221,I would defiantly come back here again as one of my top choices .,NULL,implicit,RESTAURANT GENERAL,positive,top choices
+222,Okay-i do n't mind the oily part ( cause most are cooked that way ) but it was way too bland .,NULL,implicit,FOOD QUALITY,negative,oily
+223,Okay-i do n't mind the oily part ( cause most are cooked that way ) but it was way too bland .,NULL,implicit,FOOD QUALITY,negative,bland
+224,The atmosphere is noisy and the waiters are literally walking around doing things as fast as they can .,atmosphere,explicit,AMBIENCE GENERAL,negative,noisy
+225,The atmosphere is noisy and the waiters are literally walking around doing things as fast as they can .,waiters,explicit,SERVICE GENERAL,positive,fast
+226,it 's a perfect place to have a amazing indian food .,indian food,explicit,FOOD QUALITY,positive,amazing
+227,"The freshest , best variety , and the fastest delivery .",NULL,implicit,FOOD QUALITY,positive,freshest
+228,"The freshest , best variety , and the fastest delivery .",NULL,implicit,FOOD STYLE_OPTIONS,positive,best variety
+229,"The freshest , best variety , and the fastest delivery .",delivery,explicit,SERVICE GENERAL,positive,fastest
+230,"I found the food , service and value exceptional everytime I have been there .",food,explicit,FOOD QUALITY,positive,exceptional
+231,"I found the food , service and value exceptional everytime I have been there .",service,explicit,SERVICE GENERAL,positive,exceptional
+232,"I found the food , service and value exceptional everytime I have been there .",value,explicit,RESTAURANT PRICES,positive,exceptional
+233,"In an area sadly lacking in decent Thai food , this is one of the best spots .",Thai food,explicit,FOOD QUALITY,positive,decent
+234,I got an excellent piece of cheesecake and we had several other nice pastries .,cheesecake,explicit,FOOD QUALITY,positive,excellent
+235,I got an excellent piece of cheesecake and we had several other nice pastries .,pastries,explicit,FOOD QUALITY,positive,nice
+236,I would highly recommend this place !,place,explicit,RESTAURANT GENERAL,positive,recommend
+237,"This is where it really really gets bad : the manager said , there is absolutely nothing we can do , it 's a matter of taste that she did n't like it , and I can not comp it .",manager,explicit,SERVICE GENERAL,negative,bad
+238,THe perfect spot .,spot,explicit,RESTAURANT GENERAL,positive,perfect
+239,"Service ok but unfriendly , filthy bathroom .",Service,explicit,SERVICE GENERAL,negative,unfriendly
+240,"Service ok but unfriendly , filthy bathroom .",bathroom,explicit,AMBIENCE GENERAL,negative,filthy
+241,"The staff was accomodating , the food was absolutely delicious and the place is lovely .",staff,explicit,SERVICE GENERAL,positive,accomodating
+242,"The staff was accomodating , the food was absolutely delicious and the place is lovely .",food,explicit,FOOD QUALITY,positive,delicious
+243,"The staff was accomodating , the food was absolutely delicious and the place is lovely .",place,explicit,AMBIENCE GENERAL,positive,lovely
+244,"good music , great food , speedy service affordable prices .",music,explicit,AMBIENCE GENERAL,positive,good
+245,"good music , great food , speedy service affordable prices .",food,explicit,FOOD QUALITY,positive,great
+246,"good music , great food , speedy service affordable prices .",service,explicit,SERVICE GENERAL,positive,speedy
+247,"good music , great food , speedy service affordable prices .",NULL,implicit,RESTAURANT PRICES,positive,affordable
+248,We were planning to get dessert but the waitress basically through the bill at us before we had a chance to order .,waitress,explicit,SERVICE GENERAL,negative,through the bill
+249,We had a great time at the Jekyll and hyde Pub last night .,Jekyll and hyde Pub,explicit,RESTAURANT GENERAL,positive,great time
+250,The food is authentic Italian - delicious !,food,explicit,FOOD QUALITY,positive,authentic Italian
+251,The food is authentic Italian - delicious !,food,explicit,FOOD QUALITY,positive,delicious
+252,I thanked my friend who recommended me this restaurant and will certainly recommend it to others .,restaurant,explicit,RESTAURANT GENERAL,positive,recommend
+253,Planet Thai is great !,Planet Thai,explicit,RESTAURANT GENERAL,positive,great
+254,"To sum it up : Service varies from good to mediorce , depending on which waiter you get ; generally it is just average Ok .",Service,explicit,SERVICE GENERAL,neutral,varies
+255,Restaurant with a view,view,explicit,LOCATION GENERAL,neutral,with a view
+256,"The food was not fresh , the sauces were bland and very oily .",food,explicit,FOOD QUALITY,negative,not fresh
+257,"The food was not fresh , the sauces were bland and very oily .",sauces,explicit,FOOD QUALITY,negative,bland
+258,"The food was not fresh , the sauces were bland and very oily .",sauces,explicit,FOOD QUALITY,negative,oily
+259,I literally just got back home after visiting Casa La Femme and was so offended by my visit felt it necessary to try and warn other diners who value their money and time .,Casa La Femme,explicit,RESTAURANT GENERAL,negative,offended
+260,I literally just got back home after visiting Casa La Femme and was so offended by my visit felt it necessary to try and warn other diners who value their money and time .,Casa La Femme,explicit,RESTAURANT PRICES,negative,offended
+261,This is one of my favorite restaurants and it is not to be missed .,NULL,implicit,RESTAURANT GENERAL,positive,favorite
+262,"Anybody who likes this place must be from a different planet , where greasy , dry and tasteless are complimentary .",NULL,implicit,FOOD QUALITY,negative,greasy
+263,"Anybody who likes this place must be from a different planet , where greasy , dry and tasteless are complimentary .",NULL,implicit,FOOD QUALITY,negative,dry
+264,"Anybody who likes this place must be from a different planet , where greasy , dry and tasteless are complimentary .",NULL,implicit,FOOD QUALITY,negative,tasteless
+265,Rao 's has the best service and atmosphere in NYC .,service,explicit,SERVICE GENERAL,positive,best
+266,Rao 's has the best service and atmosphere in NYC .,atmosphere,explicit,AMBIENCE GENERAL,positive,best
+267,Quite simply it 's like stepping out of Manhattan and into a haven of tranquility .,NULL,implicit,AMBIENCE GENERAL,positive,a haven of tranquility
+268,The place is a lot of fun .,place,explicit,AMBIENCE GENERAL,positive,fun
+269,"With the great variety on the menu , I eat here often and never get bored .",menu,explicit,FOOD STYLE_OPTIONS,positive,great variety
+270,"The vibe is very relaxed and cozy , service was great and the food was excellent !",vibe,explicit,AMBIENCE GENERAL,positive,relaxed
+271,"The vibe is very relaxed and cozy , service was great and the food was excellent !",vibe,explicit,AMBIENCE GENERAL,positive,cozy
+272,"The vibe is very relaxed and cozy , service was great and the food was excellent !",service,explicit,SERVICE GENERAL,positive,great
+273,"The vibe is very relaxed and cozy , service was great and the food was excellent !",food,explicit,FOOD QUALITY,positive,excellent
+274,I have lived in Japan for 7 years and the taste of the food and the feel of the restaurant is like being back in Japan .,food,explicit,FOOD QUALITY,positive,like being back in Japan
+275,I have lived in Japan for 7 years and the taste of the food and the feel of the restaurant is like being back in Japan .,feel,explicit,AMBIENCE GENERAL,positive,like being back in Japan
+276,If you like spicy food get the chicken vindaloo .,chicken vindaloo,explicit,FOOD QUALITY,positive,get
+277,Decor is nice though service can be spotty .,Decor,explicit,AMBIENCE GENERAL,positive,nice
+278,Decor is nice though service can be spotty .,service,explicit,SERVICE GENERAL,negative,spotty
+279,"The atmosphere is n't the greatest , but I suppose that 's how they keep the prices down .",atmosphere,explicit,AMBIENCE GENERAL,negative,is n't the greatest
+280,"The atmosphere is n't the greatest , but I suppose that 's how they keep the prices down .",NULL,implicit,RESTAURANT PRICES,positive,keep the prices down
+281,I can 't remember the last time I had such gross food in New York .,food,explicit,FOOD QUALITY,negative,gross
+282,We ate at this Thai place following the reviews but very unhappy with the foods .,foods,explicit,FOOD QUALITY,negative,unhappy
+283,Definitely a neighborhood favorite .,NULL,implicit,RESTAURANT GENERAL,positive,favorite
+284,"The pesto pizza was excellent , thin-crust pizza with a nice amount of spicy Italian cheese that I 'd never heard of before .",pesto pizza,explicit,FOOD QUALITY,positive,excellent
+285,"The pesto pizza was excellent , thin-crust pizza with a nice amount of spicy Italian cheese that I 'd never heard of before .",spicy Italian cheese,explicit,FOOD QUALITY,positive,nice
+286,"Food took some time to prepare , all worth waiting for .",Food,explicit,FOOD QUALITY,positive,worth
+287,"Food took some time to prepare , all worth waiting for .",NULL,implicit,SERVICE GENERAL,neutral,took some time
+288,"Regardless , we 'll be back and can 't wait to visit in the summer to take advantage of the patio .",NULL,implicit,RESTAURANT GENERAL,positive,be back
+289,"Leon is an East Village gem : casual but hip , with well prepared basic French bistro fare , good specials , a warm and lively atmosphere .",Leon,explicit,AMBIENCE GENERAL,positive,casual
+290,"Leon is an East Village gem : casual but hip , with well prepared basic French bistro fare , good specials , a warm and lively atmosphere .",Leon,explicit,AMBIENCE GENERAL,positive,hip
+291,"Leon is an East Village gem : casual but hip , with well prepared basic French bistro fare , good specials , a warm and lively atmosphere .",specials,explicit,FOOD QUALITY,positive,good
+292,"Leon is an East Village gem : casual but hip , with well prepared basic French bistro fare , good specials , a warm and lively atmosphere .",atmosphere,explicit,AMBIENCE GENERAL,positive,warm
+293,"Leon is an East Village gem : casual but hip , with well prepared basic French bistro fare , good specials , a warm and lively atmosphere .",atmosphere,explicit,AMBIENCE GENERAL,positive,lively
+294,"Leon is an East Village gem : casual but hip , with well prepared basic French bistro fare , good specials , a warm and lively atmosphere .",French bistro fare,explicit,FOOD QUALITY,positive,well prepared
+295,Best meal in a long time !,meal,explicit,FOOD QUALITY,positive,Best
+296,As always we had a great glass of wine while we waited .,glass of wine,explicit,DRINKS QUALITY,positive,great
+297,Hurley 's is like Cheers where everyone knows your name and they are ACTUALLY glad you came .,Hurley 's,explicit,SERVICE GENERAL,positive,glad
+298,overpriced japanese food with mediocre service,japanese food,explicit,FOOD PRICES,negative,overpriced
+299,overpriced japanese food with mediocre service,service,explicit,SERVICE GENERAL,neutral,mediocre
+300,I have been doing all of the above at the Heartland Brewery for over 5 years now and I HAVE NEVER BEEN DISAPPOINTED !,Heartland Brewery,explicit,RESTAURANT GENERAL,positive,NEVER BEEN DISAPPOINTED
+301,We had Pam 's special fried fish and it was amazing .,Pam 's special fried fish,explicit,FOOD QUALITY,positive,amazing
+302,The menu is limited but almost all of the dishes are excellent .,menu,explicit,FOOD STYLE_OPTIONS,negative,limited
+303,The menu is limited but almost all of the dishes are excellent .,dishes,explicit,FOOD QUALITY,positive,excellent
+304,For each course we waited over 1 /2 hour to 45 minutes and were never offered a drink .,NULL,implicit,SERVICE GENERAL,negative,waited over 1 /2 hour to 45 minutes
+305,Everything about this restaurant was special .,restaurant,explicit,RESTAURANT GENERAL,positive,special
+306,We did arrive late for our reservation so I can not complain too much about the wait for a table .,wait,explicit,SERVICE GENERAL,neutral,can not complain too much
+307,bad staff,staff,explicit,SERVICE GENERAL,negative,bad
+308,this little place has a cute interior decor and affordable city prices .,interior decor,explicit,AMBIENCE GENERAL,positive,cute
+309,this little place has a cute interior decor and affordable city prices .,place,explicit,RESTAURANT PRICES,positive,little
+310,But $ 500 for a dinner for two that didn 't include Wine ?,dinner for two,explicit,FOOD PRICES,negative,didn 't include Wine
+311,This is a nice restaurant if you are looking for a good place to host an intimate dinner meeting with business associates .,restaurant,explicit,RESTAURANT MISCELLANEOUS,positive,nice
+312,Try green curry with vegetables .,green curry with vegetables,explicit,FOOD QUALITY,positive,Try
+313,My boyfriend had the New England Chowder it was good but I think the award should go to the Lobster Bisque .,New England Chowder,explicit,FOOD QUALITY,positive,good
+314,My boyfriend had the New England Chowder it was good but I think the award should go to the Lobster Bisque .,Lobster Bisque,explicit,FOOD QUALITY,positive,award
+315,Love Pizza 33 ...,Pizza 33,explicit,RESTAURANT GENERAL,positive,Love
+316,What a hassle !,NULL,implicit,RESTAURANT GENERAL,negative,hassle
+317,Poor service and management,service,explicit,SERVICE GENERAL,negative,Poor
+318,Poor service and management,management,explicit,SERVICE GENERAL,negative,Poor
+319,And the Tom Kha soup was pathetic .,Tom Kha soup,explicit,FOOD QUALITY,negative,pathetic
+320,Moderate prices .,NULL,implicit,RESTAURANT PRICES,neutral,Moderate
+321,The hostess and the waitress were incredibly rude and did everything they could to rush us out .,hostess,explicit,SERVICE GENERAL,negative,rude
+322,The hostess and the waitress were incredibly rude and did everything they could to rush us out .,waitress,explicit,SERVICE GENERAL,negative,rude
+323,"On a recent Sunday afternoon , a friend and I accidently found this great restaurant on our way to see the pulitzer prize winning play DOUBT .",restaurant,explicit,RESTAURANT GENERAL,positive,great
+324,There is something about their atmosphere that makes me come back nearly every week .,atmosphere,explicit,AMBIENCE GENERAL,positive,come back
+325,Great Indian food,Indian food,explicit,FOOD QUALITY,positive,Great
+326,"THe back garden sitting area is very pleasant , where you can see their personal herb garden .",back garden sitting area,explicit,AMBIENCE GENERAL,positive,pleasant
+327,"The service was terrible , we had to wait for everything and ask several of different people for the same thing before we were allowed to be served .",service,explicit,SERVICE GENERAL,negative,terrible
+328,"Oh , and I never write reviews -- I just was so moved by how bad this place was , I felt it was my duty to spread the word .",place,explicit,RESTAURANT GENERAL,negative,bad
+329,Not a very fancy place but very good Chinese style Indian food .,place,explicit,AMBIENCE GENERAL,neutral,fancy
+330,Not a very fancy place but very good Chinese style Indian food .,Chinese style Indian food,explicit,FOOD QUALITY,positive,good
+331,Wonderful strawberry daiquiries as well !,strawberry daiquiries,explicit,DRINKS QUALITY,positive,Wonderful
+332,The food was lousy - too sweet or too salty and the portions tiny .,food,explicit,FOOD QUALITY,negative,lousy
+333,The food was lousy - too sweet or too salty and the portions tiny .,food,explicit,FOOD QUALITY,negative,too sweet
+334,The food was lousy - too sweet or too salty and the portions tiny .,food,explicit,FOOD QUALITY,negative,too salty
+335,The food was lousy - too sweet or too salty and the portions tiny .,portions,explicit,FOOD STYLE_OPTIONS,negative,tiny
+336,"delicious bagels , especially when right out of the oven .",bagels,explicit,FOOD QUALITY,positive,delicious
+337,Although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat .,service,explicit,SERVICE GENERAL,positive,good
+338,Although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat .,place,explicit,AMBIENCE GENERAL,positive,relaxing
+339,I almost hesititate to write a review because the atmosphere was so great and I would hate for it too become to crowded .,atmosphere,explicit,AMBIENCE GENERAL,positive,great
+340,This was my frist time at Cafe St. Bart 's and I must say how delicious the food and the service was .,food,explicit,FOOD QUALITY,positive,delicious
+341,The service was excellent and the food was delicious .,service,explicit,SERVICE GENERAL,positive,excellent
+342,The service was excellent and the food was delicious .,food,explicit,FOOD QUALITY,positive,delicious
+343,"For those that go once and do n't enjoy it , all I can say is that they just do n't get it .",NULL,implicit,RESTAURANT MISCELLANEOUS,positive,enjoy
+344,"The bar drinks were Eh , ok to say the least .",bar drinks,explicit,DRINKS QUALITY,negative,ok
+345,"Considering we were the last patrons there and it was after the closing time , the waitstaff did not rush us at all and made us feel comfortable and relaxed .",waitstaff,explicit,SERVICE GENERAL,positive,comfortable
+346,"Considering we were the last patrons there and it was after the closing time , the waitstaff did not rush us at all and made us feel comfortable and relaxed .",waitstaff,explicit,SERVICE GENERAL,positive,relaxed
+347,The food is great .,food,explicit,FOOD QUALITY,positive,great
+348,"Great vibe , lots of people .",vibe,explicit,AMBIENCE GENERAL,positive,Great
+349,"This is undoubtedly my favorite modern Japanese brasserie ( that don ’ t serve sushi ) , and in my opinion , one of the most romantic restaurants in the city !",modern Japanese brasserie,explicit,RESTAURANT GENERAL,positive,favorite
+350,"This is undoubtedly my favorite modern Japanese brasserie ( that don ’ t serve sushi ) , and in my opinion , one of the most romantic restaurants in the city !",modern Japanese brasserie,explicit,AMBIENCE GENERAL,positive,romantic
+351,The bread we received was horrible - rock hard and cold - and the `` free `` appetizer of olives was disappointing .,bread,explicit,FOOD QUALITY,negative,horrible
+352,The bread we received was horrible - rock hard and cold - and the `` free `` appetizer of olives was disappointing .,appetizer of olives,explicit,FOOD QUALITY,negative,disappointing
+353,The bread we received was horrible - rock hard and cold - and the `` free `` appetizer of olives was disappointing .,appetizer of olives,explicit,FOOD PRICES,neutral,`` free ``
+354,"While it is understandable that every place is indeed different , there was not a need to be uncourteous to customers and downright rude .",NULL,implicit,SERVICE GENERAL,negative,rude
+355,The nakgi-bokum was horrible .,nakgi-bokum,explicit,FOOD QUALITY,negative,horrible
+356,I ate here a week ago and found most dishes average at best and too expensive .,dishes,explicit,FOOD QUALITY,negative,average
+357,I ate here a week ago and found most dishes average at best and too expensive .,dishes,explicit,FOOD PRICES,negative,too expensive
+358,They honored reservation on Sunday afternoon very well .,NULL,implicit,SERVICE GENERAL,positive,very well
+359,The hostess was very pleasant .,hostess,explicit,SERVICE GENERAL,positive,pleasant
+360,"Skip this restaurant , it 's a big disappointment .",restaurant,explicit,RESTAURANT GENERAL,negative,Skip
+361,"Skip this restaurant , it 's a big disappointment .",restaurant,explicit,RESTAURANT GENERAL,negative,disappointment
+362,"Service was very good - prompt , attentive and non-intrusive .",Service,explicit,SERVICE GENERAL,positive,good
+363,"Service was very good - prompt , attentive and non-intrusive .",Service,explicit,SERVICE GENERAL,positive,prompt
+364,"Service was very good - prompt , attentive and non-intrusive .",Service,explicit,SERVICE GENERAL,positive,attentive
+365,"Service was very good - prompt , attentive and non-intrusive .",Service,explicit,SERVICE GENERAL,positive,non-intrusive
+366,I was there on sat . for my birthday and we had an excellent time .,NULL,implicit,RESTAURANT GENERAL,positive,excellent
+367,"La Rosa waltzes in , and I think they are doing it the best .",La Rosa,explicit,FOOD QUALITY,positive,best
+368,"Toons has recently been redone , so it 's now a very attractive space .",Toons,explicit,AMBIENCE GENERAL,positive,attractive
+369,Sushi experience was unbelievable with my fiance .,Sushi,explicit,FOOD QUALITY,positive,unbelievable
+370,"I don ’ t usually visit the same establishment more than once , what more twice , but I ’ ll come to Zenkichi anytime for a quiet , unhurried and memorable dinner .",Zenkichi,explicit,RESTAURANT GENERAL,positive,come to Zenkichi anytime
+371,"I don ’ t usually visit the same establishment more than once , what more twice , but I ’ ll come to Zenkichi anytime for a quiet , unhurried and memorable dinner .",Zenkichi,explicit,AMBIENCE GENERAL,positive,quiet
+372,"I don ’ t usually visit the same establishment more than once , what more twice , but I ’ ll come to Zenkichi anytime for a quiet , unhurried and memorable dinner .",Zenkichi,explicit,AMBIENCE GENERAL,positive,unhurried
+373,"I don ’ t usually visit the same establishment more than once , what more twice , but I ’ ll come to Zenkichi anytime for a quiet , unhurried and memorable dinner .",Zenkichi,explicit,AMBIENCE GENERAL,positive,memorable
+374,I highly recommend Caviar Russe to anyone who wants delicious top grade caviar and fantastic service .,caviar,explicit,FOOD QUALITY,positive,delicious top grade
+375,I highly recommend Caviar Russe to anyone who wants delicious top grade caviar and fantastic service .,service,explicit,SERVICE GENERAL,positive,fantastic
+376,"We left , never to return .",NULL,implicit,RESTAURANT GENERAL,negative,never to return
+377,These are overpriced and you can get better just around the corner :,NULL,implicit,FOOD PRICES,negative,overpriced
+378,These are overpriced and you can get better just around the corner :,NULL,implicit,FOOD QUALITY,negative,can get better
+379,Go there once and oh yes ... you will go back ... you will ...,NULL,implicit,RESTAURANT GENERAL,positive,go back
+380,"The Steak Tartare is a great bet , they fix it for you at the table .",Steak Tartare,explicit,FOOD STYLE_OPTIONS,positive,great
+381,"I like Cafe Noir dont get me wrong , it is jsut that the people who work there are evil and incompetent ! !",people,explicit,SERVICE GENERAL,negative,evil
+382,"I like Cafe Noir dont get me wrong , it is jsut that the people who work there are evil and incompetent ! !",people,explicit,SERVICE GENERAL,negative,incompetent
+383,"I like Cafe Noir dont get me wrong , it is jsut that the people who work there are evil and incompetent ! !",Cafe Noir,explicit,RESTAURANT GENERAL,positive,like
+384,It 's very spicy but not offensive .,NULL,implicit,FOOD QUALITY,positive,not offensive
+385,First of all Dal Bukhara Rocks .,Dal Bukhara,explicit,FOOD QUALITY,positive,Rocks
+386,The wine list is excellent .,wine list,explicit,DRINKS STYLE_OPTIONS,positive,excellent
+387,"However , our $ 14 drinks were were horrible !",drinks,explicit,DRINKS QUALITY,negative,horrible
+388,"However , our $ 14 drinks were were horrible !",drinks,explicit,DRINKS PRICES,negative,horrible
+389,"No desert menu , no apology , nothing ! ! ! ! ! !",NULL,implicit,SERVICE GENERAL,negative,no apology 
+390,"This is some really good , inexpensive sushi .",sushi,explicit,FOOD QUALITY,positive,good
+391,"This is some really good , inexpensive sushi .",sushi,explicit,FOOD PRICES,positive,inexpensive
+392,I 've been there three times and have always had wonderful experiences .,NULL,implicit,RESTAURANT GENERAL,positive,wonderful
+393,"Took my mom for Mother 's Day , and the maitre d ' was pretty rude .",maitre d ',explicit,SERVICE GENERAL,negative,rude
+394,"However , go for the ambience , and consider the food just a companion for a trip across the world !",food,explicit,FOOD QUALITY,neutral,a companion for a trip across the world 
+395,Probably would not go back here .,NULL,implicit,RESTAURANT GENERAL,negative,would not go back
+396,Just want to warn you all - do n't waste your time and money .,NULL,implicit,RESTAURANT GENERAL,negative,waste
+397,The filet mignon dish was superb !,filet mignon dish,explicit,FOOD QUALITY,positive,superb
+398,The only downside ... they only take cash which is OK if you know about it ahead of time .,NULL,implicit,RESTAURANT MISCELLANEOUS,negative,downside
+399,"The service is ok , some of the people did n't get what they asked for .",service,explicit,SERVICE GENERAL,neutral,ok
+400,I have never before eaten 40 pieces of relatively good nigiri .,nigiri,explicit,FOOD QUALITY,neutral,good
+401,It is expensive but well worth the money .,NULL,implicit,RESTAURANT PRICES,negative,expensive
+402,It is expensive but well worth the money .,NULL,implicit,RESTAURANT GENERAL,positive,well worth
+403,The place 's decor and hidden bathrooms made for a good laugh .,decor,explicit,AMBIENCE GENERAL,positive,good laugh
+404,The place 's decor and hidden bathrooms made for a good laugh .,hidden bathrooms,explicit,AMBIENCE GENERAL,positive,good laugh
+405,The lobster sandwich is $ 24 and although it was good it was not nearly enough to warrant that price .,lobster sandwich,explicit,FOOD QUALITY,positive,good
+406,The lobster sandwich is $ 24 and although it was good it was not nearly enough to warrant that price .,lobster sandwich,explicit,FOOD PRICES,negative,not nearly enough to warrant that price
+407,"The food is very good , but not outstanding .",food,explicit,FOOD QUALITY,neutral,good
+408,Downstairs lounge is always a good attraction,Downstairs lounge,explicit,AMBIENCE GENERAL,positive,good attraction
+409,The spicy Tuna roll is huge and probably the best that I 've had at this price range .,spicy Tuna roll,explicit,FOOD STYLE_OPTIONS,positive,huge
+410,The spicy Tuna roll is huge and probably the best that I 've had at this price range .,spicy Tuna roll,explicit,FOOD QUALITY,positive,best
+411,The spicy Tuna roll is huge and probably the best that I 've had at this price range .,spicy Tuna roll,explicit,FOOD PRICES,positive,best
+412,"The chicken lollipop is my favorite , most of the dishes ( I have to agree with a previous reviewer ) are quite oily and very spicy , espeically the Chilli Chicken .",chicken lollipop,explicit,FOOD QUALITY,positive,favorite
+413,"The chicken lollipop is my favorite , most of the dishes ( I have to agree with a previous reviewer ) are quite oily and very spicy , espeically the Chilli Chicken .",dishes,explicit,FOOD QUALITY,negative,oily
+414,"The chicken lollipop is my favorite , most of the dishes ( I have to agree with a previous reviewer ) are quite oily and very spicy , espeically the Chilli Chicken .",dishes,explicit,FOOD QUALITY,negative,spicy
+415,"The chicken lollipop is my favorite , most of the dishes ( I have to agree with a previous reviewer ) are quite oily and very spicy , espeically the Chilli Chicken .",Chilli Chicken,explicit,FOOD QUALITY,negative,oily
+416,"The chicken lollipop is my favorite , most of the dishes ( I have to agree with a previous reviewer ) are quite oily and very spicy , espeically the Chilli Chicken .",Chilli Chicken,explicit,FOOD QUALITY,negative,spicy
+417,"Can 't argue about that , but they are clearly over priced .",NULL,implicit,FOOD PRICES,negative,over priced
+418,"One special roll and one regular roll is enough to fill you up , but save room for dessert !",dessert,explicit,FOOD QUALITY,positive,save room
+419,"One special roll and one regular roll is enough to fill you up , but save room for dessert !",special roll,explicit,FOOD STYLE_OPTIONS,positive,enough
+420,"One special roll and one regular roll is enough to fill you up , but save room for dessert !",regular roll,explicit,FOOD STYLE_OPTIONS,positive,enough
+421,We were then shooed inside .,NULL,implicit,SERVICE GENERAL,negative,shooed
+422,"Inexpensive , unassuming , great time !",NULL,implicit,RESTAURANT PRICES,positive,Inexpensive
+423,"Inexpensive , unassuming , great time !",NULL,implicit,AMBIENCE GENERAL,positive,unassuming
+424,"Inexpensive , unassuming , great time !",NULL,implicit,RESTAURANT GENERAL,positive,great
+425,The hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed .,hanger steak,explicit,FOOD QUALITY,negative,rubber
+426,The hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed .,tuna,explicit,FOOD QUALITY,negative,flavorless
+427,Excellent spot for holiday get togethers with co-workers or friends that you have n't seen in a while .,spot,explicit,RESTAURANT MISCELLANEOUS,positive,Excellent
+428,"Small servings for main entree , i had salmon ( wasnt impressed ) girlfriend had chicken , it was good .",salmon,explicit,FOOD QUALITY,negative,wasnt impressed
+429,"Small servings for main entree , i had salmon ( wasnt impressed ) girlfriend had chicken , it was good .",chicken,explicit,FOOD QUALITY,positive,good
+430,"Small servings for main entree , i had salmon ( wasnt impressed ) girlfriend had chicken , it was good .",servings for main entree,explicit,FOOD GENERAL,negative,Small
+431,It was divine melts in your mouth .,NULL,implicit,FOOD QUALITY,positive,divine
+432,My six year old loved it .,NULL,implicit,RESTAURANT GENERAL,positive,loved
+433,Terrible Waste of money . . scammers,NULL,implicit,RESTAURANT GENERAL,negative,Terrible
+434,Terrible Waste of money . . scammers,NULL,implicit,RESTAURANT PRICES,negative,Waste of money
+435,Love it .,NULL,implicit,RESTAURANT GENERAL,positive,Love
+436,You will not be disapointed at all .,NULL,implicit,RESTAURANT GENERAL,positive,will not be disapointed
+437,"Food was just average ... if they lowered the prices just a bit , it would be a bigger draw .",Food,explicit,FOOD QUALITY,neutral,average
+438,Everything was going good until we got our meals .,NULL,implicit,RESTAURANT GENERAL,positive,good
+439,"I 've also been amazed at all the new additions in the past few years : A new Jazz Bar , the most fantastic Dining Garden , the Best Thin Crust Pizzas , and now a Lasagna Menu which is to die for ( these are not your average lasagnas ) !",Dining Garden,explicit,AMBIENCE GENERAL,positive,fantastic
+440,"I 've also been amazed at all the new additions in the past few years : A new Jazz Bar , the most fantastic Dining Garden , the Best Thin Crust Pizzas , and now a Lasagna Menu which is to die for ( these are not your average lasagnas ) !",Jazz Bar,explicit,AMBIENCE GENERAL,positive,new
+441,"I 've also been amazed at all the new additions in the past few years : A new Jazz Bar , the most fantastic Dining Garden , the Best Thin Crust Pizzas , and now a Lasagna Menu which is to die for ( these are not your average lasagnas ) !",Thin Crust Pizzas,explicit,FOOD QUALITY,positive,Best
+442,"I 've also been amazed at all the new additions in the past few years : A new Jazz Bar , the most fantastic Dining Garden , the Best Thin Crust Pizzas , and now a Lasagna Menu which is to die for ( these are not your average lasagnas ) !",Lasagna Menu,explicit,FOOD QUALITY,positive,die for
+443,"After dinner the manager grabbed my boyfriend , asked him : Where are you from ... maybe you dont know how things work in America ... and in the end stormed away almost teareyed yelling that tips are the only thing they survive on .",manager,explicit,SERVICE GENERAL,negative,yelling
+444,The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal,meal,explicit,FOOD QUALITY,positive,enjoy
+445,The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal,meal,explicit,FOOD QUALITY,positive,great
+446,The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal,restaurant,explicit,AMBIENCE GENERAL,negative,noisy
+447,Do n't miss Bloom 's on your next trip to Manhatten .,Bloom 's,explicit,RESTAURANT GENERAL,positive,miss
+448,The food was good .,food,explicit,FOOD QUALITY,positive,good
+449,"The atmosphere is unheralded , the service impecible , and the food magnificant .",atmosphere,explicit,AMBIENCE GENERAL,positive,unheralded
+450,"The atmosphere is unheralded , the service impecible , and the food magnificant .",service,explicit,SERVICE GENERAL,positive,impecible
+451,"The atmosphere is unheralded , the service impecible , and the food magnificant .",food,explicit,FOOD QUALITY,positive,magnificant
+452,Would NEVER go back there .,NULL,implicit,RESTAURANT GENERAL,negative,NEVER go back
+453,"Two complaints -- their appetizer selection stinks , it would be nice to get some mozzarella sticks on the menu .",appetizer selection,explicit,FOOD STYLE_OPTIONS,negative,complaints
+454,"$ 6 and there is much tasty food , all of it fresh and continually refilled .",food,explicit,FOOD QUALITY,positive,tasty
+455,"$ 6 and there is much tasty food , all of it fresh and continually refilled .",food,explicit,FOOD QUALITY,positive,fresh
+456,"$ 6 and there is much tasty food , all of it fresh and continually refilled .",food,explicit,FOOD PRICES,positive,refilled
+457,The exotic food is beautifully presented and is a delight in delicious combinations .,exotic food,explicit,FOOD STYLE_OPTIONS,positive,beautifully presented
+458,The exotic food is beautifully presented and is a delight in delicious combinations .,exotic food,explicit,FOOD QUALITY,positive,delight
+459,"A gentleman , maybe the manager , came to our table , and without so much as a smile or greeting asked for our order .",gentleman,explicit,SERVICE GENERAL,negative,without so much as a smile or greeting
+460,I will be going back very soon .,NULL,implicit,RESTAURANT GENERAL,positive,going back
+461,"The food we ordered was excellent , although I would n't say the margaritas were anything to write home about .",food,explicit,FOOD QUALITY,positive,excellent
+462,"The food we ordered was excellent , although I would n't say the margaritas were anything to write home about .",margaritas,explicit,DRINKS QUALITY,neutral,anything to write home about
+463,What we did do was waste 3 hours being trapped in a table waiting and waiting for food and drinks and hooka . . some of which we never received !,NULL,implicit,SERVICE GENERAL,negative,never received
+464,But the pizza is way to expensive .,pizza,explicit,FOOD PRICES,negative,expensive
+465,"Just straight up cheap , good food .",food,explicit,FOOD QUALITY,positive,good
+466,"Just straight up cheap , good food .",food,explicit,FOOD PRICES,positive,cheap
+467,This dish is my favorite and I always get it when I go there and never get tired of it .,dish,explicit,FOOD QUALITY,positive,favorite
+468,$ 20 for all you can eat sushi can not be beaten .,all you can eat sushi,explicit,FOOD PRICES,positive,beaten
+469,We even had a visit from the Manager who wanted to make sure we were enjoying ourselves .,Manager,explicit,SERVICE GENERAL,positive,enjoying
+470,"I was shocked that my friends wanted to stay after the waitress said , `` can I help you `` and `` how many are in your party . ``",waitress,explicit,SERVICE GENERAL,negative,shocked
+471,The takeout is great too since they give high quality tupperware as well .,takeout,explicit,SERVICE GENERAL,positive,great
+472,You must have the crabmeat lasagna which is out of this world and the chocolate bread pudding for dessert .,crabmeat lasagna,explicit,FOOD QUALITY,positive,out of this world
+473,"its just a fun place to go , not a five star restaraunt .",restaraunt,explicit,RESTAURANT GENERAL,neutral,five star
+474,Staff is very accomodating .,Staff,explicit,SERVICE GENERAL,positive,accomodating
+475,"He served me an Uni Hand roll , which I never had before , and let me tell you ... IT WAS HEAVEN !",Uni Hand roll,explicit,FOOD QUALITY,positive,HEAVEN
+476,"Guacamole+shrimp appetizer was really great , we both had the filet , very good , did n't much like the frites that came with , but the filet was so good , neither of us cared .",Guacamole+shrimp appetizer,explicit,FOOD QUALITY,positive,great
+477,"Guacamole+shrimp appetizer was really great , we both had the filet , very good , did n't much like the frites that came with , but the filet was so good , neither of us cared .",filet,explicit,FOOD QUALITY,positive,good
+478,"Guacamole+shrimp appetizer was really great , we both had the filet , very good , did n't much like the frites that came with , but the filet was so good , neither of us cared .",frites,explicit,FOOD QUALITY,negative,did n't much like
+479,"The food however , is what one might expect .",food,explicit,FOOD QUALITY,negative,expect
+480,"We had fun eating in there , we were there like around 3 a .m . in the morning !",NULL,implicit,RESTAURANT GENERAL,positive,had fun
+481,Will prob . not return but it is a great dinning experience to try atleast once .,NULL,implicit,RESTAURANT GENERAL,negative,not return
+482,Will prob . not return but it is a great dinning experience to try atleast once .,NULL,implicit,RESTAURANT GENERAL,positive,great
+483,Great sushi experience .,sushi,explicit,FOOD QUALITY,positive,Great
+484,Great pizza and fantastic service .,pizza,explicit,FOOD QUALITY,positive,Great
+485,Great pizza and fantastic service .,service,explicit,SERVICE GENERAL,positive,fantastic
+486,"On our last visit , they skipped over our name on the list , leaving us waiting an extra hour for a table .",NULL,implicit,SERVICE GENERAL,negative,waiting an extra hour
+487,Have been dozens of times and never failed to enjoy the experience .,NULL,implicit,RESTAURANT GENERAL,positive,enjoy
+488,I 'm glad I was introduced to this place and this is a rare gem in NY .,place,explicit,RESTAURANT GENERAL,positive,glad
+489,Easily the worst stir-fried squid I 've ever tasted .,stir-fried squid,explicit,FOOD QUALITY,negative,worst
+490,With the theater 2 blocks away we had a delicious meal in a beautiful room .,meal,explicit,FOOD QUALITY,positive,delicious
+491,With the theater 2 blocks away we had a delicious meal in a beautiful room .,room,explicit,AMBIENCE GENERAL,positive,beautiful
+492,With the theater 2 blocks away we had a delicious meal in a beautiful room .,NULL,implicit,LOCATION GENERAL,positive,2 blocks away
+493,"But nonetheless -- great spot , great food .",spot,explicit,RESTAURANT GENERAL,positive,great
+494,"But nonetheless -- great spot , great food .",food,explicit,FOOD QUALITY,positive,great
+495,"Our visit their to say the least , was an unpleasant and costly experience !",NULL,implicit,RESTAURANT GENERAL,negative,unpleasant
+496,"Our visit their to say the least , was an unpleasant and costly experience !",NULL,implicit,RESTAURANT PRICES,negative,costly
+497,Consistently good Japanese Tapas .,Japanese Tapas,explicit,FOOD QUALITY,positive,good
+498,The food is prepared quickly and efficiently .,NULL,implicit,SERVICE GENERAL,positive,quickly
+499,The food is prepared quickly and efficiently .,NULL,implicit,SERVICE GENERAL,positive,efficiently
+500,It is simply amazing .,NULL,implicit,FOOD QUALITY,positive,amazing
+501,"If you go , try the marinara/arrabiatta sauce , the mozzarella en Carozza is mmmmmmmm ... .. everything is just delicious .",marinara/arrabiatta sauce,explicit,FOOD QUALITY,positive,try
+502,"If you go , try the marinara/arrabiatta sauce , the mozzarella en Carozza is mmmmmmmm ... .. everything is just delicious .",marinara/arrabiatta sauce,explicit,FOOD QUALITY,positive,delicious
+503,"If you go , try the marinara/arrabiatta sauce , the mozzarella en Carozza is mmmmmmmm ... .. everything is just delicious .",mozzarella en Carozza,explicit,FOOD QUALITY,positive,delicious
+504,"If you go , try the marinara/arrabiatta sauce , the mozzarella en Carozza is mmmmmmmm ... .. everything is just delicious .",NULL,implicit,FOOD QUALITY,positive,delicious
+505,The pizza was pretty good and huge .,pizza,explicit,FOOD QUALITY,positive,good
+506,The pizza was pretty good and huge .,pizza,explicit,FOOD STYLE_OPTIONS,positive,huge
